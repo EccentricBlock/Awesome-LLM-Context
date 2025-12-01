@@ -16,6 +16,9 @@ This repo contains a collection of `Markdown` files, that i have created to prov
   * [SOC2 and COSO Framework: A Comprehensive Overview](./Regulations/SOC2%20and%20COSO%20Framework.md)
 
 #### Benchmarks
+* AWS
+  * [AWS Security Maturity Model v2 Tecnical Reference](./Security/Benchmarks/AWS%20Security%20Maturity%20Model%20v2%20(AWS%20SMM%20v2)%20Technical%20Reference.md)
+  
 * NIST
   * [Cybersecurity Framework v2](./Security/Benchmarks/NIST%20CSF%20v2.0%20RAG.md)
   * [Cyber Risk Institute (CRI) Profile v2](./Security/Benchmarks/Cyber%20Risk%20Institute%20-%20NIST%20CSF%20Profile%20for%20Financial%20Sector%20RAG.md)
